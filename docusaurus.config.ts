@@ -6,7 +6,7 @@ const config: Config = {
 <<<<<<< HEAD
   title: 'Humanoid AI Robotic AI Book BY CH Ali Jutt',
 =======
-  title: 'Humanoid AI Robotic Book By Ch Ali JUtt',
+  title: 'Humanoid AI Robotic Book By Ch Ali Jutt',
 >>>>>>> bc3854986d53f096695dde65ec29443f5e5de75c
   tagline: 'A Comprehensive Textbook for Building Intelligent Embodied Systems',
   favicon: 'img/favicon.ico',
