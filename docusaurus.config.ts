@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'AI Book BY CH Ali Lala Musa',
+  title: 'Humanoid AI Robotic Book By Ch Ali JUtt',
   tagline: 'A Comprehensive Textbook for Building Intelligent Embodied Systems',
   favicon: 'img/favicon.ico',
 
